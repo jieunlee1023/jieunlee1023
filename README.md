@@ -44,14 +44,14 @@
 	<a href="https://polyester-meteor-b02.notion.site/e2de4c3b2c01483b8c3696f4293450eb">
 		<img src="https://img.shields.io/badge/Notion-3A3A42?style=for-the-badge&logo=Notion&logoColor=white" />
 	</a>
-	<a href="https://blog.naver.com/ji_euni">
+	<a href="https://blog.naver.com/ji_euni"  target=”_blank”>
 		<img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="mailto:ji_euni@naver.com">
 		<img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ji_euni@naver.com" />
 	</a>
   <br>
-	<a href="https://www.notion.so/562e73ca6587465992b9067d565f93bf?v=d85b1f60d74049059cce0ec01f0b96d6">
+	<a href="https://www.notion.so/562e73ca6587465992b9067d565f93bf?v=d85b1f60d74049059cce0ec01f0b96d6"  target=”_blank”>
 		<img src="https://img.shields.io/badge/프로젝트 확인하러가기🤍-E9568E?style=for-the-badge&logo=BookStack&logoColor=white" />
 	</a>
 	<br>
